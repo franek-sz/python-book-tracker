@@ -1,6 +1,6 @@
 # Reading List Tracker
 
-A Python script to track and manage your reading list from a markdown file. It categorizes books based on their status (read, currently reading, to read, did not finish) and provides useful statistics like the number of books read, currently reading, and more. It can also randomly pick a book from your "to read" list.
+A Python script to track and a reading list from a markdown file. It categorizes books based on their status (read, currently reading, to read, did not finish) and provides useful statistics like the number of books read, currently reading, and more. It can also randomly pick a book from your "to read" list.
 
 ---
 
@@ -75,4 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Do not contact me.
-```
