@@ -69,9 +69,3 @@ The project includes unit tests to ensure the script works as expected. To run t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-Do not contact me.
